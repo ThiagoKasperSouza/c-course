@@ -10,7 +10,7 @@ void arithmetic_ops() {
     int c = a+b;
     int d = b-a;
     // conversão explicita de int para float
-    float e = (float)a / (float) b;
+    float e = (float)a / b;
     int f = a*b;
     int g = a%b;
 
