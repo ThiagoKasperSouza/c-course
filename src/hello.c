@@ -49,5 +49,7 @@ int main() {
     printf("\nASCII VALUE CONVERSION: \n");
     ascii_ops();
 
+    printf("\n BOOLEAN VALS: \n");
+    print_booleans();
     return 0;
 }
