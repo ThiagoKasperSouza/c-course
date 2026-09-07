@@ -14,6 +14,7 @@ C-course/
     ├── arit_ops.c          # Arithmetic operations module implementation
     ├── inc_n_dec.c         # Increment and decrement module implementation
     ├── ascii_ops.c         # ASCII value implicit conversion implementation
+    ├── booleans.c          # Prints boolean values
     └── assign_ops.c        # Assignment operators module implementation
 ```
 🛠️ Prerequisites
